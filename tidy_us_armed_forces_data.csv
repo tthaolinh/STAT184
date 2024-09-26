@@ -1,0 +1,281 @@
+Pay_Grade,Service_Branch,Sex,Personnel_Count
+E1,Army,Male,7909
+E2,Army,Male,18763
+E3,Army,Male,38802
+E4,Army,Male,81278
+E5,Army,Male,55671
+E6,Army,Male,50030
+E7,Army,Male,30367
+E8,Army,Male,9287
+E9,Army,Male,2908
+Total Enlisted,Army,Male,295015
+W1,Army,Male,3817
+W2,Army,Male,5398
+W3,Army,Male,2826
+W4,Army,Male,1532
+W5,Army,Male,514
+Total Warrant Officers,Army,Male,14087
+O1,Army,Male,7153
+O2,Army,Male,10013
+O3,Army,Male,20694
+O4,Army,Male,12758
+O5,Army,Male,6969
+O6,Army,Male,3084
+O7,Army,Male,87
+O8,Army,Male,100
+O9,Army,Male,41
+O10,Army,Male,12
+Total Officers,Army,Male,60911
+Total,Army,Male,370013
+E1,Army,Female,1322
+E2,Army,Female,3383
+E3,Army,Female,8169
+E4,Army,Female,14619
+E5,Army,Female,11111
+E6,Army,Female,7432
+E7,Army,Female,4322
+E8,Army,Female,1426
+E9,Army,Female,413
+Total Enlisted,Army,Female,52197
+W1,Army,Female,399
+W2,Army,Female,653
+W3,Army,Female,316
+W4,Army,Female,149
+W5,Army,Female,47
+Total Warrant Officers,Army,Female,1564
+O1,Army,Female,2358
+O2,Army,Female,3093
+O3,Army,Female,5739
+O4,Army,Female,3002
+O5,Army,Female,1539
+O6,Army,Female,588
+O7,Army,Female,18
+O8,Army,Female,7
+O9,Army,Female,8
+O10,Army,Female,1
+Total Officers,Army,Female,16353
+Total,Army,Female,70114
+E1,Navy,Male,9051
+E2,Navy,Male,10969
+E3,Navy,Male,23430
+E4,Navy,Male,39241
+E5,Navy,Male,57238
+E6,Navy,Male,45749
+E7,Navy,Male,18026
+E8,Navy,Male,6500
+E9,Navy,Male,2518
+Total Enlisted,Navy,Male,212722
+W1,Navy,Male,30
+W2,Navy,Male,615
+W3,Navy,Male,734
+W4,Navy,Male,416
+W5,Navy,Male,69
+Total Warrant Officers,Navy,Male,1864
+O1,Navy,Male,5012
+O2,Navy,Male,5640
+O3,Navy,Male,14825
+O4,Navy,Male,8085
+O5,Navy,Male,5478
+O6,Navy,Male,2613
+O7,Navy,Male,90
+O8,Navy,Male,67
+O9,Navy,Male,32
+O10,Navy,Male,7
+Total Officers,Navy,Male,41849
+Total,Navy,Male,256435
+E1,Navy,Female,2681
+E2,Navy,Female,3603
+E3,Navy,Female,7493
+E4,Navy,Female,11855
+E5,Navy,Female,16254
+E6,Navy,Female,9580
+E7,Navy,Female,3098
+E8,Navy,Female,912
+E9,Navy,Female,323
+Total Enlisted,Navy,Female,55799
+W1,Navy,Female,3
+W2,Navy,Female,96
+W3,Navy,Female,102
+W4,Navy,Female,42
+W5,Navy,Female,5
+Total Warrant Officers,Navy,Female,248
+O1,Navy,Female,1545
+O2,Navy,Female,1769
+O3,Navy,Female,4825
+O4,Navy,Female,2217
+O5,Navy,Female,1040
+O6,Navy,Female,421
+O7,Navy,Female,7
+O8,Navy,Female,3
+O9,Navy,Female,4
+O10,Navy,Female,1
+Total Officers,Navy,Female,11832
+Total,Navy,Female,67879
+E1,Marine,Male,7233
+E2,Marine,Male,14688
+E3,Marine,Male,35047
+E4,Marine,Male,28946
+E5,Marine,Male,21481
+E6,Marine,Male,11667
+E7,Marine,Male,8191
+E8,Marine,Male,3559
+E9,Marine,Male,1518
+Total Enlisted,Marine,Male,132330
+W1,Marine,Male,483
+W2,Marine,Male,738
+W3,Marine,Male,538
+W4,Marine,Male,265
+W5,Marine,Male,103
+Total Warrant Officers,Marine,Male,2127
+O1,Marine,Male,2292
+O2,Marine,Male,3377
+O3,Marine,Male,5298
+O4,Marine,Male,3610
+O5,Marine,Male,1809
+O6,Marine,Male,660
+O7,Marine,Male,37
+O8,Marine,Male,30
+O9,Marine,Male,18
+O10,Marine,Male,3
+Total Officers,Marine,Male,17134
+Total,Marine,Male,151591
+E1,Marine,Female,659
+E2,Marine,Female,1604
+E3,Marine,Female,3787
+E4,Marine,Female,2942
+E5,Marine,Female,2723
+E6,Marine,Female,1370
+E7,Marine,Female,760
+E8,Marine,Female,275
+E9,Marine,Female,83
+Total Enlisted,Marine,Female,14203
+W1,Marine,Female,48
+W2,Marine,Female,47
+W3,Marine,Female,32
+W4,Marine,Female,11
+W5,Marine,Female,8
+Total Warrant Officers,Marine,Female,146
+O1,Marine,Female,370
+O2,Marine,Female,574
+O3,Marine,Female,624
+O4,Marine,Female,333
+O5,Marine,Female,138
+O6,Marine,Female,49
+O7,Marine,Female,2
+O8,Marine,Female,2
+O9,Marine,Female,0
+O10,Marine,Female,0
+Total Officers,Marine,Female,2092
+Total,Marine,Female,16441
+E1,Air,Force,6564
+E2,Air,Force,6562
+E3,Air,Force,34981
+E4,Air,Force,52399
+E5,Air,Force,42576
+E6,Air,Force,32242
+E7,Air,Force,18367
+E8,Air,Force,3632
+E9,Air,Force,1956
+Total Enlisted,Air,Force,199279
+W1,Air,Force,N/A*
+W2,Air,Force,N/A*
+W3,Air,Force,N/A*
+W4,Air,Force,N/A*
+W5,Air,Force,N/A*
+Total Warrant Officers,Air,Force,N/A*
+O1,Air,Force,4867
+O2,Air,Force,4993
+O3,Air,Force,15532
+O4,Air,Force,10045
+O5,Air,Force,7459
+O6,Air,Force,2658
+O7,Air,Force,91
+O8,Air,Force,68
+O9,Air,Force,33
+O10,Air,Force,12
+Total Officers,Air,Force,45758
+Total,Air,Force,245037
+E1,Air,Force,1607
+E2,Air,Force,1698
+E3,Air,Force,9891
+E4,Air,Force,15324
+E5,Air,Force,11038
+E6,Air,Force,6746
+E7,Air,Force,4717
+E8,Air,Force,1133
+E9,Air,Force,506
+Total Enlisted,Air,Force,52660
+W1,Air,Force,N/A*
+W2,Air,Force,N/A*
+W3,Air,Force,N/A*
+W4,Air,Force,N/A*
+W5,Air,Force,N/A*
+Total Warrant Officers,Air,Force,N/A*
+O1,Air,Force,1897
+O2,Air,Force,1889
+O3,Air,Force,5362
+O4,Air,Force,3395
+O5,Air,Force,1804
+O6,Air,Force,544
+O7,Air,Force,14
+O8,Air,Force,8
+O9,Air,Force,6
+O10,Air,Force,1
+Total Officers,Air,Force,14920
+Total,Air,Force,67580
+E1,Space,Force,177
+E2,Space,Force,159
+E3,Space,Force,797
+E4,Space,Force,598
+E5,Space,Force,901
+E6,Space,Force,696
+E7,Space,Force,517
+E8,Space,Force,100
+E9,Space,Force,37
+Total Enlisted,Space,Force,3982
+W1,Space,Force,N/A*
+W2,Space,Force,N/A*
+W3,Space,Force,N/A*
+W4,Space,Force,N/A*
+W5,Space,Force,N/A*
+Total Warrant Officers,Space,Force,N/A*
+O1,Space,Force,387
+O2,Space,Force,409
+O3,Space,Force,1032
+O4,Space,Force,951
+O5,Space,Force,620
+O6,Space,Force,203
+O7,Space,Force,11
+O8,Space,Force,9
+O9,Space,Force,4
+O10,Space,Force,3
+Total Officers,Space,Force,3629
+Total,Space,Force,7611
+E1,Space,Force,30
+E2,Space,Force,33
+E3,Space,Force,210
+E4,Space,Force,134
+E5,Space,Force,165
+E6,Space,Force,130
+E7,Space,Force,110
+E8,Space,Force,38
+E9,Space,Force,12
+Total Enlisted,Space,Force,862
+W1,Space,Force,N/A*
+W2,Space,Force,N/A*
+W3,Space,Force,N/A*
+W4,Space,Force,N/A*
+W5,Space,Force,N/A*
+Total Warrant Officers,Space,Force,N/A*
+O1,Space,Force,137
+O2,Space,Force,160
+O3,Space,Force,246
+O4,Space,Force,196
+O5,Space,Force,124
+O6,Space,Force,33
+O7,Space,Force,1
+O8,Space,Force,0
+O9,Space,Force,1
+O10,Space,Force,0
+Total Officers,Space,Force,898
+Total,Space,Force,1760
